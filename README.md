@@ -64,6 +64,7 @@
 ## 2-4. DB 모델링
 <a href="https://github.com/dongh810/GRID-HR-ERP/wiki/DB-Modeling" target="_blank">
 <img src="https://img.shields.io/badge/DB 모델링-68BC71.svg?style=flat-square&logo=GitHub&logoColor=white"/>
+</a> 
 
 ## 2-5. 화면 설계서
 <a href="https://github.com/dongh810/GRID-HR-ERP/wiki/%ED%99%94%EB%A9%B4-%EC%84%A4%EA%B3%84%EC%84%9C" target="_blank">
