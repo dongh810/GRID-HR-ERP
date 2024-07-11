@@ -78,6 +78,7 @@
 ## 2-7. API 명세서
 <a href="https://github.com/dongh810/GRID-HR-ERP/wiki/API-%EB%AA%85%EC%84%B8%EC%84%9C" target="_blank">
 <img src="https://img.shields.io/badge/API 설계서-9146FF.svg?style=flat-square&logo=GitHub&logoColor=white"/>
+</a>
 
 ## 2-8. 단위 테스트 결과 
 <a href="https://github.com/dongh810/GRID-HR-ERP/wiki/%EB%8B%A8%EC%9C%84-%ED%85%8C%EC%8A%A4%ED%8A%B8" target="_blank">
