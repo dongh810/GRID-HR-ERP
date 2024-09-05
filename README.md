@@ -2,25 +2,6 @@
 
 ![Group 70 (2)](https://github.com/beyond-sw-camp/be04-fin-5team-GRID/assets/105986200/ae76d635-a0ec-4230-8bc9-bb3d609a35ae)
 
-### 팀명: HighFives
-
-### 팀원
-
-- 🦊 팀원 : **백동현**
-[<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/dongh810)
-
-- 🧸 팀원 : **이예원**
-[<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/onelee521)
-
-- 🎀 팀원 : **박고은**
-[<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/goeunpark123)
-
-- 🐹 팀원 : **정우진**
-[<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/Wrinkk)
-
-- 🐭 팀원 : **정태원**
-[<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/t4e1)
-
 ### 프로젝트 위키 
 ✨ <a href="https://github.com/dongh810/GRID-HR-ERP/wiki" target="_blank">
 <img src="https://img.shields.io/badge/GRID HR-00BC8E.svg?style=flat-square&logo=github&logoColor=white"/>
