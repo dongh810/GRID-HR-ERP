@@ -72,6 +72,7 @@
 <img src="https://img.shields.io/badge/UI/UX 테스트-EF7B4D.svg?style=flat-square&logo=GitHub&logoColor=white"/>
 </a>
 
+
 ## 2-10. 통합 테스트 결과 
 <a href="https://github.com/dongh810/GRID-HR-ERP/wiki/%ED%86%B5%ED%95%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8" target="_blank">
 <img src="https://img.shields.io/badge/통합 테스트-088A85.svg?style=flat-square&logo=GitHub&logoColor=white"/>
