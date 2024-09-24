@@ -7,7 +7,6 @@
 <img src="https://img.shields.io/badge/GRID HR-00BC8E.svg?style=flat-square&logo=github&logoColor=white"/>
 </a> 
 
-
 ---
 
 # 1. 프로젝트 개요
